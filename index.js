@@ -9,3 +9,5 @@ function newFunction(){
 }
 
 const email = 'hassan@gmail.com'
+
+const contact = " a Number";
