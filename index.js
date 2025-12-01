@@ -11,3 +11,5 @@ function newFunction(){
 const email = 'hassan@gmail.com'
 
 const contact = " a Number";
+
+const officeHours = 'office hours updated';
