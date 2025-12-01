@@ -15,3 +15,5 @@ const contact = " a Number";
 const officeHours = 'office hours updated';
 
 const officeHours = 'office hours updated again';
+
+const officeHours = 'office B hours updated';
